@@ -1,6 +1,16 @@
 {%- assign social = site.minima.social_links -%}
 
 <ul class="social-media-list">
+<li>
+  <a href="https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/" title="Meetup"><i class="fab fa-meetup grey svg-icon"></i></a>
+</li>
+<li>
+  <a href="https://twitter.com/dotnettlse" title="Twitter"><i class="fab fa-twitter grey svg-icon"></i></a>
+</li>
+<li>
+  <a href="https://github.com/dotnettlse" title="Github"><i class="fab fa-github grey svg-icon"></i></a>
+</li>
+
   {%- if social.dribbble -%}<li><a href="https://dribbble.com/{{ social.dribbble | cgi_escape | escape }}" title="{{ social.dribbble | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#dribbble' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.facebook -%}<li><a href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.flickr -%}<li><a href="https://www.flickr.com/photos/{{ social.flickr | cgi_escape | escape }}" title="{{ social.flickr | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#flickr' | relative_url }}"></use></svg></a></li>{%- endif -%}

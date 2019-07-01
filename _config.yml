@@ -22,8 +22,8 @@ url: https://asso.dotnettlse.fr # the base hostname & protocol for your site, e.
 minima:
   date_format: "%d/%m/%Y"
   social_links:
-    twitter: dotnettlse
-    github: dotnettlse
+    # twitter: dotnettlse
+    # github: dotnettlse
     rss: RSS
 
 # Build settings
