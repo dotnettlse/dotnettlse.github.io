@@ -6,17 +6,11 @@ date: 2017-05-15
 ---
 
 # Règlement intérieur de l’association DotnetTlse 
-Adopté par l’assemblée générale du 15 mai 2017 
+Adopté par l’assemblée générale du 13 septembre 2019 
 
 ## Article 1 – Agrément des nouveaux membres 
 
 Tout nouveau membre doit se présenter aux membres du conseil d’administration. 
-
-Il est agréé par le conseil statuant à la majorité de tous ses membres. 
-
-Le conseil statue lors de chacune de ses réunions sur les demandes d’admission présentées. 
-
-Les personnes désirant adhérer doivent remplir une fiche d’adhésion. 
 
 ## Article 2 – Démission, exclusion, décès d’un membre 
 
@@ -32,19 +26,14 @@ En cas de décès d’un membre, les héritiers ou les légataires ne peuvent pr
  
 La cotisation versée à l’association est définitivement acquise, même en cas de démission, d’exclusion, ou de décès d’un membre en cours d’année. 
 
-## Article 3 – Assemblées générales, modalités applicables aux votes 
-
-- Les membres présents votent à main levée. Toutefois, un scrutin secret peut être demandé par le conseil ou 20% des membres présents. 
-- Comme indiqué à l’article 10 des statuts, si un membre de l’association ne peut assister personnellement à une assemblée, il peut s’y faire représenter par un mandataire dans les conditions indiquées audit article. 
-
-## Article 4 – Indemnités de remboursement 
+## Article 3 – Indemnités de remboursement 
 
 Seuls les administrateurs et membres élus du bureau, peuvent prétendre au remboursement des frais engagés dans le cadre de leurs fonctions et sur justifications. 
 
-## Article 5 – Commission de travail 
+## Article 4 – Commission de travail 
 
 Des commissions de travail peuvent être constituées par décision du conseil d’administration 
 
-## Article 6 – Modification du règlement intérieur 
+## Article 5 – Modification du règlement intérieur 
 
-Le présent règlement intérieur pourra être modifié par le conseil d’administration ou par l’assemblée générale ordinaire à la majorité absolue des membres. 
+Le présent règlement intérieur pourra être modifié à tout moment par le conseil d’administration. 

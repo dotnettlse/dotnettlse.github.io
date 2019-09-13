@@ -35,7 +35,6 @@ La durée de l’association est illimitée
 
 L’association se compose de : 
 
-- Membres d’honneur, qui rendent ou ont rendu d’éminents services à l’association 
 - Membres bienfaiteurs, qui versent une cotisation annuelle supérieure à la cotisation minimale selon un montant fixé en Assemblée générale 
 - Membres actifs ou adhérents, à jour de leur cotisation annuelle 
 
@@ -47,11 +46,9 @@ Toute personne, physique comme morale, doit accepter intégralement les statuts 
 
 ## Article 7 – membres - cotisations 
 
-Sont membres actifs ceux qui ont pris l’engagement de verser annuellement une cotisation, dont le montant est fixé chaque année par l’assemblée générale ordinaire de l’association. 
+Sont membres actifs ceux qui ont pris l’engagement de verser annuellement une cotisation, dont le montant peut être modifié chaque année par l’assemblée générale ordinaire de l’association. 
 
-Sont membres d’honneur ceux qui ont rendu des services signalés à l’association ; ils sont dispensés de cotisations. 
-
-Sont membres bienfaiteurs les personnes qui versent un droit d’entrée et une cotisation annuelle, dont le montant est fixé chaque année par l’assemblée générale ordinaire de l’association. 
+Sont membres bienfaiteurs les personnes qui versent un droit d’entrée et une cotisation annuelle, dont le montant peut être modifié chaque année par l’assemblée générale ordinaire de l’association. 
 
 ## Article 8 – radiations 
 
@@ -74,33 +71,27 @@ Les ressources de l’association comprennent :
 
 ## Article 10 – assemblée générale ordinaire 
 
-L’assemblée générale de l’association comprend tous les membres de l’association à quelque titre qu’ils soient.  
+L’assemblée générale de l’association comprend les membres du Conseil d'Administration.  
 
-Les membres peuvent venir en personne, ou se faire représenter en donnant une procuration rédigée sur papier libre. 
+Elle se réunit chaque année au plus tard avant le démarrage d'une nouvelle « saison » en septembre. 
 
-Elle se réunit chaque année au mois de mai. 
+Le président de séance compte de la gestion et soumet les comptes annuels (bilan, compte de résultat et annexe) à l’approbation de l’assemblée. 
 
-Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins d’un membre du conseil d’administration. L’ordre du jour figure sur les convocations. 
-
-Les membres du conseil d’administration président l’assemblée et exposent la situation morale ou l’activité de l’association. 
-
-Ils rendent compte de la gestion et soumettent les comptes annuels (bilan, compte de résultat et annexe) à l’approbation de l’assemblée. 
-
-L’assemblée générale fixe le montant des cotisation annuelles et du droit d’entrée à verser par les différentes catégories de membres. 
+L’assemblée générale peut décider de modifier le montant des cotisation annuelles à verser par les différentes catégories de membres. 
 
 Ne peuvent être abordés que les points inscrits à l’ordre du jour. 
 
-Les décisions sont prises à la majorité des suffrages exprimés par les membres présents ou représentés. 
+Les décisions sont prises à la majorité des suffrages exprimés par les membres présents. 
 
 Il est procédé, après épuisement de l’ordre du jour, au renouvellement des membres sortants du conseil.  
 
 Toutes les délibérations sont prises à main levée. 
 
-Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés. 
+Les décisions des assemblées générales s’imposent à tous les membres. Elles seront rendues publiques et présentées aux membres par les canaux de communications habituels de l'association.
 
 ## Article 11 – assemblée générale extraordinaire 
 
-Si besoin est, ou sur la demande de la moitié des membres inscrits, le conseil d’administration peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles. 
+Si besoin est, le conseil d’administration peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles. 
 
 Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire. 
 
@@ -108,16 +99,11 @@ Les délibérations sont prises à la majorité des suffrages exprimés.
 
 ## Article 12 – conseil d’administration 
 
-Le conseil d’administration est dirigé par un conseil de 4 membres, élus pour 2 années par l’assemblée générale.  
+Le conseil d’administration est composé de membres élus par l’assemblée générale. Il est renouvelé entièrement chaque année. 
 
-Le nombre de membre peut être modifié par décision du conseil d’administration validée en assemblée générale. 
+Peuvent être candidat au conseil d’administration les membres sortants, ainsi que tout adhérent coopté par un membre du conseil d’administration actuel. 
 
-Le conseil étant renouvelé chaque année par moitié. La première année, les membres sortants sont désignés par tirage au sort. Peut être candidat au conseil d’administration tout adhérent coopté par un membre du conseil d’administration actuel. 
-Les membres du conseil d’administration sortant sont rééligibles. 
-
-En cas de vacances, le conseil d’administration peut pourvoir provisoirement au remplacement de ses membres. Lors de l’assemblée générale ordinaire un remplacement définitif ou un changement du nombre de membres du conseil d’administration peut être décidé. En cas de remplacement, les pouvoirs des membres ainsi élus prennent fin à l’expiration des mandats des membres remplacés. 
-
-Le conseil d’administration se réunit au moins une fois par an, à la demande de la moitié de ses membres. 
+Le conseil d’administration peut se réunir de manière informelle ou échanger par un canal de discussion électronique pour prendre les décisions nécessaires à la gestion de l'association. 
 
 Les décisions sont prises à la majorité absolue. 
 
@@ -127,9 +113,9 @@ Toutes les fonctions, y compris celles du conseil d’administration, sont gratu
 
 ## Article 14 – règlement intérieur 
 
-Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale.  
+Un règlement intérieur est établi par le conseil d'administration.  
 
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
+Il est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
 ## Article 15 – dissolution 
 
@@ -139,4 +125,4 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 11
 
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir. 
  
-Fait à Toulouse, le 15 mai 2017 
+Fait à Toulouse, le 13 septembre 2019 
