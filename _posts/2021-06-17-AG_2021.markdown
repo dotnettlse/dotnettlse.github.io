@@ -84,4 +84,4 @@ Signé électroniquement par Patrice Lamarche
 Signé électroniquement par David Toussaint  
 
 La validité des signatures peut être vérifiée à l'url suivante :  
-[https://github.com/dotnettlse/dotnettlse.github.io/commits/main]
+[https://github.com/dotnettlse/dotnettlse.github.io/commits/main](https://github.com/dotnettlse/dotnettlse.github.io/commits/main)
