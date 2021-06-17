@@ -78,7 +78,8 @@ Tous les membres présents se représentent, et sont renouvelés pour une année
 
 ## Signature
 
-Signé électroniquement pas Guillaume Lacasa 
+Signé électroniquement par Guillaume Lacasa 
+Signé électroniquement par Michel Amorosa 
 
 La validité des signatures peut être vérifiée à l'url suivante :  
-https://github.com/dotnettlse/dotnettlse.github.io/commits/main
+[https://github.com/dotnettlse/dotnettlse.github.io/commits/main]
