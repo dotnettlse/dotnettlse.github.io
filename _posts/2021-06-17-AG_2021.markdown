@@ -81,8 +81,8 @@ Tous les membres présents se représentent, et sont renouvelés pour une année
 Signé électroniquement par Guillaume Lacasa  
 Signé électroniquement par Michel Amorosa  
 Signé électroniquement par Patrice Lamarche  
-Signé électroniquement par David Toussaint
-Signé éléctroniquement par Ionut Mihalcea
+Signé électroniquement par David Toussaint  
+Signé éléctroniquement par Ionut Mihalcea  
 
 La validité des signatures peut être vérifiée à l'url suivante :  
 [https://github.com/dotnettlse/dotnettlse.github.io/commits/main](https://github.com/dotnettlse/dotnettlse.github.io/commits/main)
